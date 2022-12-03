@@ -32,7 +32,7 @@ export const Work = [
         tags:["react","styledComponents","react-router"],
         
         demo:"",
-        github:""
+        github:"https://github.com/harllogeen/alugbin-portfolio"
        
     },{
         id:5,
