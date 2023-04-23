@@ -36,7 +36,7 @@ function App() {
       <Route exact path= "/about" component={AboutPage}/>
       {/* <Route exact path= "/blog" component={BlogPage}/> */}
       <Route exact path= "/skills" component={MySkillsPage}/>
-      <Route exact path= "/work" component={WorkPage}/>
+      <Route exact path= "/projects" component={WorkPage}/>
     </Switch>
   </AnimatePresence>
     
