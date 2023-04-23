@@ -44,8 +44,8 @@ const SubBox = styled.div`
   }
   #pic {
     width: 55%;
-    margin-left: 5rem;
-    padding-bottom:5px;
+    margin-left: 6rem;
+    
   }
 `;
 
